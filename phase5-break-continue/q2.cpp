@@ -1,0 +1,11 @@
+// Phase 5 : Break / Continue Logic
+// Q2. Print numbers from 1 to 100, but skip all numbers that are divisible by 5 and continue printing the rest.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+
+    return 0;
+}
